@@ -1256,7 +1256,7 @@ ul.slides li {
     height:100%;
     padding:2%;
     display: none;
-    text-align: left;
+    text-align: center;
     color:#fff !important;
     z-index:2;
 }
